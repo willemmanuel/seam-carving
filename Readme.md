@@ -1,5 +1,5 @@
 ## Seam Carving for Content-Aware Image Resizing
-## Will Emmanuel
+Will Emmanuel
 
 ### Requirements
 * Run in provided Vagrant box
