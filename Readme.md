@@ -1,5 +1,6 @@
 ## Seam Carving for Content-Aware Image Resizing
 Will Emmanuel
+
 Implementation of Shai Avidan and Ariel Shamir's [research](http://www.faculty.idc.ac.il/arik/SCWeb/imret/index.html)
 
 ### Requirements
